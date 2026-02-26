@@ -85,8 +85,8 @@ Preparação para expansão futura do sistema
 
 Algumas interfaces do sistema estão disponíveis neste repositório para fins demonstrativos.
 ![Formulário de denuncia](./images/form.png)
-![Dashboard](./images/cap1.png)
-![Denuncias](./images/denuncias.png)
+![Dashboard](./images/cap0.png)
+![Denuncias](./images/cap1.png)
 ![Denuncias - Visão geral](./images/cap2.png)
 ![Denuncias - Tratativas](./images/cap3.png)
 ![Denuncias - Riscos Ocupacionais](./images/cap4.png)
